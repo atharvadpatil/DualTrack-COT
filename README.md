@@ -1,4 +1,3 @@
-Here is the clean version of the README for the **DualTrack-COT** project.
 
 # DualTrack-COT: Budget-Aware Stepwise Guidance for Small LMs
 
