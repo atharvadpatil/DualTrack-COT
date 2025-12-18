@@ -220,6 +220,8 @@ The script will:
 
 ```bash
 pip install datasets pandas tqdm
+# or to install everything 
+pip install -r requirements.txt 
 ```
 
 **Note**: Each experiment notebook installs its own dependencies at runtime, so no global installation is needed. The notebooks will install packages like `transformers`, `accelerate`, `bitsandbytes`, `peft`, and `torch` as needed.
